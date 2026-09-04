@@ -1,0 +1,160 @@
+﻿```cshtml
+@model IEnumerable<appReversotask.Models.Incidente>
+
+@{
+    ViewData["Title"] = "Incidentes";
+}
+
+<div class="d-flex justify-content-between align-items-center mb-4">
+    <div>
+        <h1 class="h3 mb-1">Incidentes</h1>
+        <p class="text-muted mb-0">
+            Gerencie e acompanhe os incidentes registrados no sistema
+        </p>
+    </div>
+
+    <a asp-action="Create" class="btn btn-primary">
+        <i class="bi bi-plus-lg me-1"></i> Novo Incidente
+    </a>
+</div>
+
+@if (!Model.Any())
+{
+    <div class="alert alert-info text-center py-5">
+        <i class="bi bi-exclamation-triangle display-6 d-block mb-3"></i>
+
+        <h5>Nenhum incidente cadastrado</h5>
+
+        <p class="mb-3">
+            Ainda não existem incidentes registrados no sistema.
+        </p>
+
+        <a asp-action="Create" class="btn btn-primary">
+            <i class="bi bi-plus-lg me-1"></i>
+            Registrar Incidente
+        </a>
+    </div>
+}
+else
+{
+    <div class="card shadow-sm">
+
+        <div class="card-header bg-white py-3">
+            <div class="d-flex align-items-center">
+                <i class="bi bi-list-check me-2 text-primary"></i>
+                <h5 class="mb-0">Incidentes registrados</h5>
+            </div>
+        </div>
+
+        <div class="card-body p-0">
+            <div class="table-responsive">
+
+                <table class="table table-hover align-middle mb-0">
+
+                    <thead class="table-light">
+                        <tr>
+                            <th class="ps-3">Descrição do problema</th>
+                            <th>Data do incidente</th>
+                            <th>Solução</th>
+                            <th>Status</th>
+                            <th class="text-end pe-3" style="width: 180px;">
+                                Ações
+                            </th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+
+                                <td class="ps-3">
+                                    <span class="fw-medium">
+                                        @Html.DisplayFor(modelItem => item.DescricaoProblema)
+                                    </span>
+                                </td>
+
+                                <td>
+                                    <span class="text-muted">
+                                        <i class="bi bi-calendar3 me-1"></i>
+                                        @Html.DisplayFor(modelItem => item.DataIncidente)
+                                    </span>
+                                </td>
+
+                                <td>
+
+                                    @if (string.IsNullOrWhiteSpace(item.Solucao))
+                                    {
+                                        <span class="text-muted fst-italic">
+                                            Ainda não definida
+                                        </span>
+                                    }
+                                    else
+                                    {
+                                        @Html.DisplayFor(modelItem => item.Solucao)
+                                    }
+
+                                </td>
+
+                                <td>
+
+                                    @if (item.Resolvido)
+                                    {
+                                        <span class="badge bg-success-subtle text-success-emphasis">
+                                            <i class="bi bi-check-circle me-1"></i>
+                                            Resolvido
+                                        </span>
+                                    }
+                                    else
+                                    {
+                                        <span class="badge bg-warning-subtle text-warning-emphasis">
+                                            <i class="bi bi-clock me-1"></i>
+                                            Pendente
+                                        </span>
+                                    }
+
+                                </td>
+
+                                <td class="text-end pe-3">
+
+                                    <div class="btn-group btn-group-sm">
+
+                                        <a asp-action="Details"
+                                           asp-route-id="@item.Codigo"
+                                           class="btn btn-outline-secondary"
+                                           title="Visualizar detalhes">
+                                            <i class="bi bi-eye"></i>
+                                        </a>
+
+                                        <a asp-action="Edit"
+                                           asp-route-id="@item.Codigo"
+                                           class="btn btn-outline-primary"
+                                           title="Editar incidente">
+                                            <i class="bi bi-pencil"></i>
+                                        </a>
+
+                                        <a asp-action="Delete"
+                                           asp-route-id="@item.Codigo"
+                                           class="btn btn-outline-danger"
+                                           title="Excluir incidente">
+                                            <i class="bi bi-trash"></i>
+                                        </a>
+
+                                    </div>
+
+                                </td>
+
+                            </tr>
+                        }
+
+                    </tbody>
+
+                </table>
+
+            </div>
+        </div>
+
+    </div>
+}
+```
