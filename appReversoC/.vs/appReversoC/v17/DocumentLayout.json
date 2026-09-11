@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moyse\\LabSoftUseCase bekap\\meu-projeto-LabSoftUseCase\\meu-projeto-LabSoftUseCase\\appReversoC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BFABA25-0B5B-4C99-98E6-C6295BEA28A7}|appReversoC.csproj|c:\\users\\moyse\\labsoftusecase bekap\\meu-projeto-labsoftusecase\\meu-projeto-labsoftusecase\\appreversoc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BFABA25-0B5B-4C99-98E6-C6295BEA28A7}|appReversoC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BFABA25-0B5B-4C99-98E6-C6295BEA28A7}|appReversoC.csproj|c:\\users\\moyse\\labsoftusecase bekap\\meu-projeto-labsoftusecase\\meu-projeto-labsoftusecase\\appreversoc\\controllers\\consultumscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BFABA25-0B5B-4C99-98E6-C6295BEA28A7}|appReversoC.csproj|solutionrelative:controllers\\consultumscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BFABA25-0B5B-4C99-98E6-C6295BEA28A7}|appReversoC.csproj|c:\\users\\moyse\\labsoftusecase bekap\\meu-projeto-labsoftusecase\\meu-projeto-labsoftusecase\\appreversoc\\models\\loginviewmodel..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BFABA25-0B5B-4C99-98E6-C6295BEA28A7}|appReversoC.csproj|solutionrelative:models\\loginviewmodel..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BFABA25-0B5B-4C99-98E6-C6295BEA28A7}|appReversoC.csproj|c:\\users\\moyse\\labsoftusecase bekap\\meu-projeto-labsoftusecase\\meu-projeto-labsoftusecase\\appreversoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BFABA25-0B5B-4C99-98E6-C6295BEA28A7}|appReversoC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BFABA25-0B5B-4C99-98E6-C6295BEA28A7}|appReversoC.csproj|c:\\users\\moyse\\labsoftusecase bekap\\meu-projeto-labsoftusecase\\meu-projeto-labsoftusecase\\appreversoc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BFABA25-0B5B-4C99-98E6-C6295BEA28A7}|appReversoC.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BFABA25-0B5B-4C99-98E6-C6295BEA28A7}|appReversoC.csproj|c:\\users\\moyse\\labsoftusecase bekap\\meu-projeto-labsoftusecase\\meu-projeto-labsoftusecase\\appreversoc\\controllers\\loginviewmodelcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BFABA25-0B5B-4C99-98E6-C6295BEA28A7}|appReversoC.csproj|solutionrelative:controllers\\loginviewmodelcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BFABA25-0B5B-4C99-98E6-C6295BEA28A7}|appReversoC.csproj|c:\\users\\moyse\\labsoftusecase bekap\\meu-projeto-labsoftusecase\\meu-projeto-labsoftusecase\\appreversoc\\controllers\\pacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BFABA25-0B5B-4C99-98E6-C6295BEA28A7}|appReversoC.csproj|solutionrelative:controllers\\pacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BFABA25-0B5B-4C99-98E6-C6295BEA28A7}|appReversoC.csproj|c:\\users\\moyse\\labsoftusecase bekap\\meu-projeto-labsoftusecase\\meu-projeto-labsoftusecase\\appreversoc\\controllers\\medicoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BFABA25-0B5B-4C99-98E6-C6295BEA28A7}|appReversoC.csproj|solutionrelative:controllers\\medicoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BFABA25-0B5B-4C99-98E6-C6295BEA28A7}|appReversoC.csproj|c:\\users\\moyse\\labsoftusecase bekap\\meu-projeto-labsoftusecase\\meu-projeto-labsoftusecase\\appreversoc\\models\\dbclinicacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BFABA25-0B5B-4C99-98E6-C6295BEA28A7}|appReversoC.csproj|solutionrelative:models\\dbclinicacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BFABA25-0B5B-4C99-98E6-C6295BEA28A7}|appReversoC.csproj|c:\\users\\moyse\\labsoftusecase bekap\\meu-projeto-labsoftusecase\\meu-projeto-labsoftusecase\\appreversoc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8BFABA25-0B5B-4C99-98E6-C6295BEA28A7}|appReversoC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\moyse\\LabSoftUseCase bekap\\meu-projeto-LabSoftUseCase\\meu-projeto-LabSoftUseCase\\appReversoC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\moyse\\LabSoftUseCase bekap\\meu-projeto-LabSoftUseCase\\meu-projeto-LabSoftUseCase\\appReversoC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAD4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-11T19:24:12.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\moyse\\LabSoftUseCase bekap\\meu-projeto-LabSoftUseCase\\meu-projeto-LabSoftUseCase\\appReversoC\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\moyse\\LabSoftUseCase bekap\\meu-projeto-LabSoftUseCase\\meu-projeto-LabSoftUseCase\\appReversoC\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-11T18:55:05.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginViewModelController1.cs",
+              "DocumentMoniker": "C:\\Users\\moyse\\LabSoftUseCase bekap\\meu-projeto-LabSoftUseCase\\meu-projeto-LabSoftUseCase\\appReversoC\\Controllers\\LoginViewModelController1.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginViewModelController1.cs",
+              "ToolTip": "C:\\Users\\moyse\\LabSoftUseCase bekap\\meu-projeto-LabSoftUseCase\\meu-projeto-LabSoftUseCase\\appReversoC\\Controllers\\LoginViewModelController1.cs",
+              "RelativeToolTip": "Controllers\\LoginViewModelController1.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T18:39:08.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginViewModel..cs",
+              "DocumentMoniker": "C:\\Users\\moyse\\LabSoftUseCase bekap\\meu-projeto-LabSoftUseCase\\meu-projeto-LabSoftUseCase\\appReversoC\\Models\\LoginViewModel..cs",
+              "RelativeDocumentMoniker": "Models\\LoginViewModel..cs",
+              "ToolTip": "C:\\Users\\moyse\\LabSoftUseCase bekap\\meu-projeto-LabSoftUseCase\\meu-projeto-LabSoftUseCase\\appReversoC\\Models\\LoginViewModel..cs",
+              "RelativeToolTip": "Models\\LoginViewModel..cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T18:32:58.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PacientesController.cs",
+              "DocumentMoniker": "C:\\Users\\moyse\\LabSoftUseCase bekap\\meu-projeto-LabSoftUseCase\\meu-projeto-LabSoftUseCase\\appReversoC\\Controllers\\PacientesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PacientesController.cs",
+              "ToolTip": "C:\\Users\\moyse\\LabSoftUseCase bekap\\meu-projeto-LabSoftUseCase\\meu-projeto-LabSoftUseCase\\appReversoC\\Controllers\\PacientesController.cs",
+              "RelativeToolTip": "Controllers\\PacientesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T13:55:34.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MedicosController.cs",
+              "DocumentMoniker": "C:\\Users\\moyse\\LabSoftUseCase bekap\\meu-projeto-LabSoftUseCase\\meu-projeto-LabSoftUseCase\\appReversoC\\Controllers\\MedicosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MedicosController.cs",
+              "ToolTip": "C:\\Users\\moyse\\LabSoftUseCase bekap\\meu-projeto-LabSoftUseCase\\meu-projeto-LabSoftUseCase\\appReversoC\\Controllers\\MedicosController.cs",
+              "RelativeToolTip": "Controllers\\MedicosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T13:41:21.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsultumsController.cs",
+              "DocumentMoniker": "C:\\Users\\moyse\\LabSoftUseCase bekap\\meu-projeto-LabSoftUseCase\\meu-projeto-LabSoftUseCase\\appReversoC\\Controllers\\ConsultumsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ConsultumsController.cs",
+              "ToolTip": "C:\\Users\\moyse\\LabSoftUseCase bekap\\meu-projeto-LabSoftUseCase\\meu-projeto-LabSoftUseCase\\appReversoC\\Controllers\\ConsultumsController.cs",
+              "RelativeToolTip": "Controllers\\ConsultumsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T13:39:40.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dbClinicaContext.cs",
+              "DocumentMoniker": "C:\\Users\\moyse\\LabSoftUseCase bekap\\meu-projeto-LabSoftUseCase\\meu-projeto-LabSoftUseCase\\appReversoC\\Models\\dbClinicaContext.cs",
+              "RelativeDocumentMoniker": "Models\\dbClinicaContext.cs",
+              "ToolTip": "C:\\Users\\moyse\\LabSoftUseCase bekap\\meu-projeto-LabSoftUseCase\\meu-projeto-LabSoftUseCase\\appReversoC\\Models\\dbClinicaContext.cs",
+              "RelativeToolTip": "Models\\dbClinicaContext.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T13:30:47.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\moyse\\LabSoftUseCase bekap\\meu-projeto-LabSoftUseCase\\meu-projeto-LabSoftUseCase\\appReversoC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\moyse\\LabSoftUseCase bekap\\meu-projeto-LabSoftUseCase\\meu-projeto-LabSoftUseCase\\appReversoC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T13:25:01.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\moyse\\LabSoftUseCase bekap\\meu-projeto-LabSoftUseCase\\meu-projeto-LabSoftUseCase\\appReversoC\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\moyse\\LabSoftUseCase bekap\\meu-projeto-LabSoftUseCase\\meu-projeto-LabSoftUseCase\\appReversoC\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-11T13:25:17.092Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
